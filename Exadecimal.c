@@ -1,3 +1,5 @@
+// Transforma o numero binario em Exadecimal
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
